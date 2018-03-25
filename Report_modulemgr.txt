@@ -1,0 +1,10 @@
+Search for differences
+
+1. C:\Users\mathi\Documents\150IPL_PLAINMODULES\original\modulemgr.prx: 37,676 bytes
+2. C:\Users\mathi\Documents\150IPL_PLAINMODULES\patched\modulemgr.prx: 37,676 bytes
+Offsets: hexadec.
+
+3FAA:	80	00
+3FAB:	15	10
+
+2 differences found. 

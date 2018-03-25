@@ -1,0 +1,18 @@
+Search for differences
+
+1. C:\Users\mathi\Documents\150IPL_PLAINMODULES\original\loadcore.prx: 41,548 bytes
+2. C:\Users\mathi\Documents\150IPL_PLAINMODULES\patched\loadcore.prx: 41,548 bytes
+Offsets: hexadec.
+
+28CD:	B0	00
+28CE:	05	00
+28CF:	40	00
+28DC:	FF	21
+28DD:	FF	20
+28DE:	04	05
+28DF:	24	00
+3060:	00	01
+3061:	B0	00
+3063:	40	24
+
+10 differences found. 

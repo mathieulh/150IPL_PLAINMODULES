@@ -1,0 +1,22 @@
+Search for differences
+
+1. C:\Users\mathi\Documents\150IPL_PLAINMODULES\ipl_part3.bin: 147,780 bytes
+2. C:\Users\mathi\Documents\150IPL_PLAINMODULES\build_ipl\payload.bin: 147,780 bytes
+Offsets: hexadec.
+
+ D81D:	B0	00
+ D81E:	05	00
+ D81F:	40	00
+ D82C:	FF	21
+ D82D:	FF	20
+ D82E:	04	05
+ D82F:	24	00
+ D834:	FF	21
+ D835:	FF	38
+ D836:	07	05
+ D837:	24	00
+ DF9C:	00	01
+ DF9D:	B0	00
+ DF9F:	40	24
+
+14 differences found. 
