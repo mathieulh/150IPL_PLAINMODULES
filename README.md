@@ -37,6 +37,8 @@ u32 loadAddr 					= 0x00000000;
 - Get the decrypted loadcore.prx and modulemgr.prx modules from 1.50 and patch those using their respective ips files or manually using
 the Report_loadcore.txt and Report_modulemgr.txt files
 
+<pre>
 Patched loadcore.prx: SHA-256: 453B8E0C74317FC483BC3BE31DF47B641B3470E8D8932D517EA75D02DA1D7125
 Patched modulemgr.prx: SHA-256: 65267351AFE51F2B0E3F52FC6218C9431159B6B98EE85835240C2C9216FEA64B
 patched payload.bin: SHA-256: 12DED8D46E1BEF4ECAEAE1B862F858238369DCBBE3D9374DAAE57772EBB101FC
+</pre>
